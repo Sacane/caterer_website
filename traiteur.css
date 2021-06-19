@@ -1,0 +1,59 @@
+html
+{
+    background-color: rgb(240, 255, 240);
+}
+
+#p1
+{
+    text-align: center;
+}
+
+body
+{
+    background-color: rgb(212, 250, 150);
+    border:2px solid black;
+    margin:auto;
+    width:2000px;
+    padding:8px;
+}
+
+footer
+{
+    bottom:0;
+}
+
+
+A:visited
+{
+    color:purple;
+}
+
+A:hover
+{
+    color:teal;
+}
+
+
+div.d1
+{
+    border: 2px solid black;
+    background-color: rgb(140, 200, 220)
+}
+
+#head
+{
+    text-align: center;
+}
+img{
+    display: block;
+}
+
+div.d2
+{
+    position:center;
+    margin: 10px;
+}
+
+p.membre{
+    text-align: right;
+}
